@@ -7,8 +7,7 @@ Hi 👋 My name is Abdel
 Software Engineer | Computer Science Student
 --------------------------------------------
 
-* 🖥️  See my portfolio at [abdelberni.netlify.app](http://abdelberni.netlify.app/)
-* ✉️  You can contact me at [abdoukop@gmail.com](mailto:abdoukop@gmail.com)
+* ✉️  You can contact me at [abdelpro1236@gmail.com](mailto:abdelpro1236@gmail.com)
 * 🧠  I'm learning New Technologies
 * 🤝  I'm open to collaborating on Interesting / Innovative projects
 
