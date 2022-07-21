@@ -1,7 +1,7 @@
 Hi 👋 My name is Abdel
 ======================
 
-Software Engineer | Computer Science Student
+Software Engineer
 --------------------------------------------
 
 * ✉️  You can contact me at [abdelpro1236@gmail.com](mailto:abdelpro1236@gmail.com)
